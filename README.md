@@ -20,6 +20,8 @@ HTML 文档由 HTML 元素定义。
 
 CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式.
 
+### [HTML < style > 标签](https://github.com/0759LW/HTML-AND-HTML5/blob/master/HTML%20%3Cstyle%3E%20%E6%A0%87%E7%AD%BE/%E6%A0%87%E7%AD%BE)
+
 ![](https://github.com/0759LW/HTML-AND-HTML5/blob/master/css.png)
 
 ## [HTML 布局](https://github.com/0759LW/HTML-AND-HTML5/blob/master/layout/%E5%B8%83%E5%B1%80)
@@ -33,6 +35,3 @@ CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式.
 ## [HTML 框架](https://github.com/0759LW/HTML-AND-HTML5/blob/master/frame/%E6%A1%86%E6%9E%B6)
 
 ![](https://github.com/0759LW/HTML-AND-HTML5/blob/master/picture/%E6%A1%86%E6%9E%B6.jpg)
-
-## [HTML总结](https://github.com/0759LW/HTML-AND-HTML5/blob/master/summary/%E6%80%BB%E7%BB%93)
-
