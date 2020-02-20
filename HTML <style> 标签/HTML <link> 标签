@@ -1,0 +1,6 @@
+实例
+链接到外部样式文件:
+
+<head>
+<link rel="stylesheet" type="text/css" href="theme.css">
+</head>
