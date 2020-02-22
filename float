@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="master.css">
+  </head>
+<body>
+    <div class="contaniner">
+    <div class="one"></div>
+    <div class="two"></div>
+    <div class="three"></div>
+</div>
+  </body>
+  </html>       
+css下面
+*{
+box-sizing: border-box
+margin: 0;
+padding: 0;
+}
+.one 
+{
+   width:110px;
+   height: 88px;
+   background-color: brown;
+
+}
+.two
+{
+   width:130px;
+   height: 100px;
+   background-color: rgb(210, 228, 49);
+}
+.three
+{
+   width:150px;
+   height: 120px;
+   background-color:orange;
+}
+.container{
+    background-color: gray;
+}
